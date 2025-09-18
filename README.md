@@ -14,11 +14,17 @@
 
 ---
 
-## 👋 About Me  
+## 👋 About Me   
 
 I’m a **data analyst** with a master’s in data analytics and a background in teaching.  
-I enjoy digging into data, spotting patterns, and turning them into insights people can actually use.  
-My work is about translating complex data into **stories and solutions that matter**.  
+I love digging into data, spotting patterns, and turning them into insights people can actually use.  
+At the core, my work is about translating complex information into **stories and solutions that drive impact**.  
+
+My career began in education, teaching math and science, which gave me a talent for breaking down complex ideas in simple, clear ways.  
+That same skill now fuels my analytics work — whether I’m explaining technical results to stakeholders or collaborating across teams.  
+
+Outside of data, you’ll usually find me outdoors hiking or recharging through mindfulness.  
+Staying active and grounded fuels my passion for balance, which I bring into both my personal life and professional work.  
 
 ---
 
@@ -35,16 +41,6 @@ My work is about translating complex data into **stories and solutions that matt
 - **ETL & Data Pipelines:** Extracting, transforming, and loading data to ensure accuracy, integrity, and scalability in analytics workflows  
 
 - **Business & Strategy:** Dashboard design, business intelligence reporting, data governance, compliance, problem-solving, and stakeholder communication  
-
----
-
-### 📚 From Teaching to Data  
-I started in education, mainly math and science, which gave me a knack for explaining complex ideas simply.  
-That skill translates directly into analytics — breaking down technical results for stakeholders or collaborating across teams.  
-
-### 🌿 A Bit More About Me  
-When I’m not analyzing datasets, you’ll probably find me hiking or outdoors, recharging through nature and mindfulness.  
-Staying active and grounded fuels my passion for wellness — a balance I also bring to my professional work.  
 
 ---
 
