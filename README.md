@@ -22,7 +22,7 @@ My work is about translating complex data into **stories and solutions that matt
 
 ---
 
-## 🔑 Skills  
+## Skills  
 
 **Data Analysis & Exploration:** Statistical modeling, forecasting, hypothesis testing, and data cleaning with Python, R, and Excel  
 
