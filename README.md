@@ -1,8 +1,8 @@
-
-
 # Rachel Goldsbury  
 
-#### 📞 (915) 269-2543 | ✉️ rachelgainer@gmail.com | [LinkedIn](https://www.linkedin.com/in/rachel-goldsbury-22a05b231) | [GitHub](https://github.com/rachkat) | [Portfolio](https://rachelgainer.wixsite.com/data-analytics-pro)  
+#### 📞 (915) 269-2543 | ✉️ rachelgainer@gmail.com | [LinkedIn](https://www.linkedin.com/in/rachel-goldsbury-22a05b231)
+
+---
 
 <!-- PDF-EXCLUDE-START -->  
 
@@ -11,6 +11,28 @@
 #### [⬇️ Download this page as PDF](/downloads/readme.pdf)  
 
 <!-- PDF-EXCLUDE-END -->  
+
+---
+
+## 👋 About Me  
+
+I’m a **data analyst** with a master’s in data analytics and a background in teaching.  
+I enjoy digging into data, spotting patterns, and turning them into insights people can actually use.  
+My work is about translating complex data into **stories and solutions that matter**.  
+
+### 🔑 Skills  
+→ **Data Analysis & Exploration** – Statistical modeling, forecasting, and data cleaning with Python, R, and Excel  
+→ **SQL & Databases** – Writing complex queries, joins, aggregations, and optimizing relational database performance  
+→ **Data Visualization & BI** – Building interactive dashboards and reports in Tableau and Power BI to inform decision-making  
+→ **Applied Machine Learning** – Applying supervised learning and predictive analytics to solve real-world problems  
+
+### 📚 From Teaching to Data  
+I started in education, mainly math and science, which gave me a knack for explaining complex ideas simply.  
+That skill translates directly into analytics — breaking down technical results for stakeholders or collaborating across teams.  
+
+### 🌿 A Bit More About Me  
+When I’m not analyzing datasets, you’ll probably find me hiking or outdoors, recharging through nature and mindfulness.  
+Staying active and grounded fuels my passion for wellness — a balance I also bring to my professional work.  
 
 ---
 
@@ -85,20 +107,10 @@
 [☝️ Back To Top](#rachel-goldsbury)  
 <!-- PDF-EXCLUDE-END -->  
 
+---
 
+👉 Looking to connect with teams that value clear communication and strong data-driven insights.  
 
+✨ Thank you for stopping by my profile today — I wish you a beautiful day!  
 
-<!--
-**rachkat/rachkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
