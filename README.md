@@ -8,7 +8,7 @@
 
 ### · [Technical Skills](#skills) · [Projects](#projects) · [Certifications](#certifications) · [Education](#education)  
 
-#### [⬇️ Download this page as PDF](/downloads/readme.pdf)  
+#### [⬇️ Download CV page as PDF](/downloads/readme.pdf)  
 
 <!-- PDF-EXCLUDE-END -->  
 
