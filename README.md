@@ -6,7 +6,7 @@
 
 <!-- PDF-EXCLUDE-START -->  
 
-### [Projects](#projects) · [Certifications](#certifications) · [Education](#education) · [Technical Skills](#skills) ·  
+### [Projects](#projects) · [Certifications](#certifications) · [Education](#education) · [Technical Skills](#skills)  
 
 #### [⬇️ Download this page as PDF](/downloads/readme.pdf)  
 
