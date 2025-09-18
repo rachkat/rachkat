@@ -93,7 +93,8 @@ Staying active and grounded fuels my passion for balance, which I bring into bot
 ## Education  
 
 **M.S. Data Analytics** — Southern New Hampshire University (2026)  
-- GPA: 3.93 | Summa Cum Laude (Highest Honors) | National Society of Leadership and Success Member  
+- GPA: 3.93 | Summa Cum Laude (Highest Honors)
+- National Society of Leadership and Success Member  
 
 **B.S. Psychology, Minor in Biology** — University of Houston (2021)  
 - PSI CHI International Honor Society  
