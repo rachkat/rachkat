@@ -1,6 +1,6 @@
 <h2 align="center">Welcome 🙂</h2>
 
-#### 📞 (915) 269-2543 | ✉️ rachelgainer@gmail.com | [LinkedIn](https://www.linkedin.com/in/rachel-goldsbury-22a05b231)
+#### 📞 (915) 269-2543 | ✉️ rachelgainer@gmail.com | [LinkedIn](https://www.linkedin.com/in/rachel-goldsbury-22a05b231) | [Blog](https://rachkat.github.io/Rachelgoldsbury.github.io/)
 
 ---
 
