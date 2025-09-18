@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 About Me   
+## About Me   
 
 I’m a **data analyst** with a master’s in data analytics and a background in teaching.  
 I love digging into data, spotting patterns, and turning them into insights people can actually use.  
