@@ -18,10 +18,7 @@
 
 I’m a **data analyst** with a master’s in data analytics and a background in teaching.  
 I love digging into data, spotting patterns, and turning them into insights people can actually use.  
-At the core, my work is about translating complex information into **stories and solutions that drive impact**.  
-
-My career began in education, teaching math and science, which gave me a talent for breaking down complex ideas in simple, clear ways.  
-That same skill now fuels my analytics work — whether I’m explaining technical results to stakeholders or collaborating across teams.  
+At the core, my work is about translating complex information into **stories and solutions that drive impact**.   
 
 Outside of data, you’ll usually find me outdoors hiking or recharging through mindfulness.  
 Staying active and grounded fuels my passion for balance, which I bring into both my personal life and professional work.  
@@ -72,10 +69,24 @@ Staying active and grounded fuels my passion for balance, which I bring into bot
 
 ## Certifications  
 
-- **IBM Data Science Professional Certificate** – 2023  
-- **IBM Machine Learning with Python** – 2024  
-- **Microsoft Power BI – Analyzing and Visualizing Data** – 2024  
-- **AICPA Applying Data Analytics to Business Performance** – 2025  
+- **IBM, Data Science Professional Certificate** – 2023  
+- **IBM, Machine Learning with Python (with Honors)** – 2024  
+- **Microsoft, Analyzing & Visualizing Data with Power BI** — 2024
+- **AICPA, Applying Data Analytics to Business Performance** – 2025
+
+
+<details>
+  <summary>Other certifications</summary>
+  
+- **Data Analytics Core Concepts Certificate** — AICPA (2025)
+- **DAT-640 Predictive Analytics** — uCertify (2025)
+- **Decision Methods & Modeling** — uCertify (2024)
+- **Data Cleansing** — AICPA (2024)  
+- **Introduction to Data Analysis** — AICPA (2025)  
+- **35 PDUs — Project Management Institute** (2024)
+- **Microsoft Power BI descktop**- Creating Reports (2024)
+
+</details>
 
 ---
 
