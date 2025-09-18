@@ -24,17 +24,17 @@ My work is about translating complex data into **stories and solutions that matt
 
 ## Skills  
 
-**Data Analysis & Exploration:** Statistical modeling, forecasting, hypothesis testing, and data cleaning with Python, R, and Excel  
+- **Data Analysis & Exploration:** Statistical modeling, forecasting, hypothesis testing, and data cleaning with Python, R, and Excel  
 
-**SQL & Databases:** Writing complex queries, joins, aggregations, and optimizing relational database performance  
+- **SQL & Databases:** Writing complex queries, joins, aggregations, and optimizing relational database performance  
 
-**Data Visualization & BI:** Building interactive dashboards and reports in Tableau, Power BI, and Excel to inform decision-making and storytelling  
+- **Data Visualization & BI:** Building interactive dashboards and reports in Tableau, Power BI, and Excel to inform decision-making and storytelling  
 
-**Machine Learning & Predictive Analytics:** Applying supervised learning, regression, and classification models to solve real-world problems and support risk analytics  
+- **Machine Learning & Predictive Analytics:** Applying supervised learning, regression, and classification models to solve real-world problems and support risk analytics  
 
-**ETL & Data Pipelines:** Extracting, transforming, and loading data to ensure accuracy, integrity, and scalability in analytics workflows  
+- **ETL & Data Pipelines:** Extracting, transforming, and loading data to ensure accuracy, integrity, and scalability in analytics workflows  
 
-**Business & Strategy:** Dashboard design, business intelligence reporting, data governance, compliance, problem-solving, and stakeholder communication  
+- **Business & Strategy:** Dashboard design, business intelligence reporting, data governance, compliance, problem-solving, and stakeholder communication  
 
 ---
 
