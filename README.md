@@ -6,7 +6,7 @@
 
 <!-- PDF-EXCLUDE-START -->  
 
-### [Projects](#projects) · [Certifications](#certifications) · [Education](#education) · [Technical Skills](#skills)  
+### · [Technical Skills](#skills) · [Projects](#projects) · [Certifications](#certifications) · [Education](#education)  
 
 #### [⬇️ Download this page as PDF](/downloads/readme.pdf)  
 
@@ -20,11 +20,23 @@ I’m a **data analyst** with a master’s in data analytics and a background in
 I enjoy digging into data, spotting patterns, and turning them into insights people can actually use.  
 My work is about translating complex data into **stories and solutions that matter**.  
 
-### 🔑 Skills  
-→ **Data Analysis & Exploration** – Statistical modeling, forecasting, and data cleaning with Python, R, and Excel  
-→ **SQL & Databases** – Writing complex queries, joins, aggregations, and optimizing relational database performance  
-→ **Data Visualization & BI** – Building interactive dashboards and reports in Tableau and Power BI to inform decision-making  
-→ **Applied Machine Learning** – Applying supervised learning and predictive analytics to solve real-world problems  
+---
+
+## 🔑 Skills  
+
+**Data Analysis & Exploration:** Statistical modeling, forecasting, hypothesis testing, and data cleaning with Python, R, and Excel  
+
+**SQL & Databases:** Writing complex queries, joins, aggregations, and optimizing relational database performance  
+
+**Data Visualization & BI:** Building interactive dashboards and reports in Tableau, Power BI, and Excel to inform decision-making and storytelling  
+
+**Machine Learning & Predictive Analytics:** Applying supervised learning, regression, and classification models to solve real-world problems and support risk analytics  
+
+**ETL & Data Pipelines:** Extracting, transforming, and loading data to ensure accuracy, integrity, and scalability in analytics workflows  
+
+**Business & Strategy:** Dashboard design, business intelligence reporting, data governance, compliance, problem-solving, and stakeholder communication  
+
+---
 
 ### 📚 From Teaching to Data  
 I started in education, mainly math and science, which gave me a knack for explaining complex ideas simply.  
@@ -78,15 +90,6 @@ Staying active and grounded fuels my passion for wellness — a balance I also b
 
 **B.S. Psychology, Minor in Biology** — University of Houston (2021)  
 - PSI CHI International Honor Society  
-
----
-
-## Skills  
-
-**Technical:** SQL, Python, R, Power BI, Tableau, Excel, ETL, Data Cleaning, Data Pipelines  
-**Analytics:** Predictive Modeling, Machine Learning, Statistical Analysis, Hypothesis Testing, Risk Analytics  
-**Business & Strategy:** BI Reporting, Dashboard Design, Data Governance, Problem-Solving, Storytelling  
-
 
 ---
 
