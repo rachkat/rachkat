@@ -6,7 +6,7 @@
 
 <!-- PDF-EXCLUDE-START -->  
 
-### [Projects](#projects) · [Certifications](#certifications) · [Education](#education) · [Technical Skills](#skills) · [Experience](#experience)  
+### [Projects](#projects) · [Certifications](#certifications) · [Education](#education) · [Technical Skills](#skills) ·  
 
 #### [⬇️ Download this page as PDF](/downloads/readme.pdf)  
 
@@ -87,19 +87,6 @@ Staying active and grounded fuels my passion for wellness — a balance I also b
 **Analytics:** Predictive Modeling, Machine Learning, Statistical Analysis, Hypothesis Testing, Risk Analytics  
 **Business & Strategy:** BI Reporting, Dashboard Design, Data Governance, Problem-Solving, Storytelling  
 
----
-
-## Experience  
-
-**Educator – KOKUA (NYC, 2022–2025)**  
-- Implemented adaptive strategies for classrooms of 20–30 students, leveraging IEPs and performance data.  
-- Integrated analytics tools to track engagement and evaluate progress.  
-- Delivered targeted interventions in K-12 and special education, boosting outcomes.  
-
-**Hospitality Roles – Server, Bartender, Leadership (2016–2021)**  
-- Excelled in high-volume service environments with hundreds of guest interactions per shift.  
-- Promoted to leadership roles, training and mentoring team members.  
-- Built strong relationships through communication and problem-solving.  
 
 ---
 
