@@ -106,9 +106,3 @@ Staying active and grounded fuels my passion for balance, which I bring into bot
 ✨ Thank you for stopping by my profile today — I wish you a beautiful day!  
 
 ---
-
-<!-- PDF-EXCLUDE-START -->  
-[☝️ Back To Top](#rachel-goldsbury)  
-<!-- PDF-EXCLUDE-END -->  
-
----
