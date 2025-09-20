@@ -43,16 +43,6 @@ Staying active and grounded fuels my passion for balance, which I bring into bot
 
 ## Projects  
 
-#### Walmart Facility Location — South Korea vs. Russia
-**[View Repo](https://github.com/rachkat/walmart-facility-location)** · *(PDF in repo: `walmart_facility_location_proposal.pdf`)*
-
-- Compared **South Korea vs. Russia** using a **Factor Rating Method** (logistics, labor, market, stability); **recommended South Korea**.
-- Identified constraints (port congestion, customs, urban traffic) and mitigations (night moves, multi-sourcing, predictive scheduling).
-- Designed warehousing strategy: **automation**, **lean/JIT**, **cross-docking**, and **co-location** with manufacturing; **pull-led** inventory with strategic **push**.
-- Embedded quality & governance: **TQM** and **Six Sigma** to improve service levels and cost efficiency.  
-
----
-
 #### Monte Carlo Simulation — Capital Modeling
 **[View Repo](https://github.com/rachkat/monte-carlo-capital-modeling)** · *(PDF in repo: `monte_carlo_capital_modeling.pdf`)*
 
@@ -60,6 +50,15 @@ Staying active and grounded fuels my passion for balance, which I bring into bot
 - Ran **10k–100k simulations** to estimate tail capital (VaR) at **99%, 99.5%, and 99.9%**, with notes on model/assumption sensitivity.
 - Delivered clean, reproducible **R** code and visualizations (loss distribution with 99.9% marker) for stakeholder-ready risk insights.
 
+---
+
+#### Walmart Facility Location — South Korea vs. Russia
+**[View Repo](https://github.com/rachkat/walmart-facility-location)** · *(PDF in repo: `walmart_facility_location_proposal.pdf`)*
+
+- Compared **South Korea vs. Russia** using a **Factor Rating Method** (logistics, labor, market, stability); **recommended South Korea**.
+- Identified constraints (port congestion, customs, urban traffic) and mitigations (night moves, multi-sourcing, predictive scheduling).
+- Designed warehousing strategy: **automation**, **lean/JIT**, **cross-docking**, and **co-location** with manufacturing; **pull-led** inventory with strategic **push**.
+- Embedded quality & governance: **TQM** and **Six Sigma** to improve service levels and cost efficiency.  
 
 ---
 
