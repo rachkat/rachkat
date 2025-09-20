@@ -51,11 +51,13 @@ Staying active and grounded fuels my passion for balance, which I bring into bot
 
 ---
 
-#### Monte Carlo Simulation – Capital Modeling  
-**[View Project](https://rachelgainer.wixsite.com/data-analytics-pro/portfolio-collections/my-portfolio/monte-carlo-simulation-for-capital-modeling)**  
-- Built Monte Carlo simulations in R to forecast collision losses using IIHS data.  
-- Ran thousands of scenarios to improve loss estimation accuracy and strengthen capital modeling.  
-- Created R visualizations to communicate results and present risk insights to stakeholders.  
+#### Monte Carlo Simulation — Capital Modeling
+**[View Repo](https://github.com/rachkat/monte-carlo-capital-modeling)** · *(PDF in repo: `monte_carlo_capital_modeling.pdf`)*
+
+- Modeled annual collision losses with a **compound Poisson** Monte Carlo (frequency ~ Poisson, per-event severity ~ Lognormal).
+- Ran **10k–100k simulations** to estimate tail capital (VaR) at **99%, 99.5%, and 99.9%**, with notes on model/assumption sensitivity.
+- Delivered clean, reproducible **R** code and visualizations (loss distribution with 99.9% marker) for stakeholder-ready risk insights.
+
 
 ---
 
