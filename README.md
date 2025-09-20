@@ -43,11 +43,13 @@ Staying active and grounded fuels my passion for balance, which I bring into bot
 
 ## Projects  
 
-#### Walmart Supply Chain Expansion – Strategic Analysis (South Korea)  
-**[View Project](https://rachelgainer.wixsite.com/data-analytics-pro/portfolio-collections/my-portfolio/addressing-international-supply-chain-constraints-and-warehousing-strategies-walmart)**  
-- Designed a data-driven supply chain strategy on lean inventory and warehouse/manufacturing co-location.  
-- Applied TQM and Six Sigma to enhance logistics efficiency and customer satisfaction.  
-- Recommended scalable solutions aligning supply chain performance with Walmart’s global growth.  
+#### Walmart Facility Location — South Korea vs. Russia
+**[View Repo](https://github.com/rachkat/walmart-facility-location)** · *(PDF in repo: `walmart_facility_location_proposal.pdf`)*
+
+- Compared **South Korea vs. Russia** using a **Factor Rating Method** (logistics, labor, market, stability); **recommended South Korea**.
+- Identified constraints (port congestion, customs, urban traffic) and mitigations (night moves, multi-sourcing, predictive scheduling).
+- Designed warehousing strategy: **automation**, **lean/JIT**, **cross-docking**, and **co-location** with manufacturing; **pull-led** inventory with strategic **push**.
+- Embedded quality & governance: **TQM** and **Six Sigma** to improve service levels and cost efficiency.  
 
 ---
 
