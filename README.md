@@ -63,7 +63,7 @@ Staying active and grounded fuels my passion for balance, which I bring into bot
 ---
 
 #### Risk Indicator Optimization – PCA & Regression Models  
-**[View Project](https://rachelgainer.wixsite.com/data-analytics-pro/portfolio-collections/my-portfolio/optimization-and-risk-assessment-determination-of-key-risk-indicators-kris)**  
+**[View Project](INSERT LINK)**  
 - Applied PCA and regression to analyze auto insurance loss data and identify KRIs.  
 - Discovered categories predictive of reduced costs across vehicle types.  
 - Recommended data-driven strategies for risk management and cost reduction.  
