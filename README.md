@@ -8,7 +8,8 @@
 
 ### · [Technical Skills](#skills) · [Projects](#projects) · [Certifications](#certifications) · [Education](#education)  
 
-#### [⬇️ Download CV as PDF](/downloads/readme.pdf)  
+#### [⬇️ Download CV as PDF](https://github.com/rachkat/rachkat/blob/main/resume-data-analyst-rachel-goldsbury.pdf)  
+
 
 <!-- PDF-EXCLUDE-END -->  
 
