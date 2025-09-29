@@ -20,8 +20,8 @@ I’m a **data analyst** with a master’s in data analytics and a background in
 I love digging into data, spotting patterns, and turning them into insights people can actually use.  
 At the core, my work is about translating complex information into **stories and solutions that drive impact**.   
 
-Outside of data, you’ll usually find me outdoors hiking or recharging through mindfulness.  
-Staying active and grounded fuels my passion for balance, which I bring into both my personal life and professional work.  
+Outside of data, you’ll usually find me trying a new recipe, baking a new sweet treat or outdoors running or hiking, recharging through mindfulness.  
+Staying active and grounded fuels my passion for balance, which I bring into professional work.  
 
 ---
 
@@ -41,34 +41,44 @@ Staying active and grounded fuels my passion for balance, which I bring into bot
 
 ---
 
-## Projects  
+## Projects   
 
-#### Monte Carlo Simulation — Capital Modeling
-**[View Repo](https://github.com/rachkat/monte-carlo-capital-modeling)** · *(PDF in repo: `monte_carlo_capital_modeling.pdf`)*
+#### Credit Risk Capstone — Logistic Regression & CRISP-DM  
+**[View Repo](https://github.com/rachkat/credit-risk-capstone)** · *(Slides + Report in repo)*  
 
-- Modeled annual collision losses with a **compound Poisson** Monte Carlo (frequency ~ Poisson, per-event severity ~ Lognormal).
-- Ran **10k–100k simulations** to estimate tail capital (VaR) at **99%, 99.5%, and 99.9%**, with notes on model/assumption sensitivity.
-- Delivered clean, reproducible **R** code and visualizations (loss distribution with 99.9% marker) for stakeholder-ready risk insights.
-
----
-
-#### Walmart Facility Location — South Korea vs. Russia
-**[View Repo](https://github.com/rachkat/walmart-facility-location)** · *(PDF in repo: `walmart_facility_location_proposal.pdf`)*
-
-- Compared **South Korea vs. Russia** using a **Factor Rating Method** (logistics, labor, market, stability); **recommended South Korea**.
-- Identified constraints (port congestion, customs, urban traffic) and mitigations (night moves, multi-sourcing, predictive scheduling).
-- Designed warehousing strategy: **automation**, **lean/JIT**, **cross-docking**, and **co-location** with manufacturing; **pull-led** inventory with strategic **push**.
-- Embedded quality & governance: **TQM** and **Six Sigma** to improve service levels and cost efficiency.  
+- Built a **credit risk prediction model** using **logistic regression** on historical loan applicant data.  
+- Applied the **CRISP-DM framework** (business understanding → deployment), including data preparation, exploratory analysis, and ethical variable selection.  
+- Delivered a stakeholder-ready **presentation deck** and **narrated brief**, highlighting actionable insights for reducing default exposure.  
 
 ---
 
-#### Risk Indicator Optimization – PCA & Regression Models  
-**[View Project](INSERT LINK)**  
-- Applied PCA and regression to analyze auto insurance loss data and identify KRIs.  
-- Discovered categories predictive of reduced costs across vehicle types.  
-- Recommended data-driven strategies for risk management and cost reduction.  
+#### Scalable Credit Risk Framework — k-NN Pilot & Model Deployment  
+**[View Repo](https://github.com/rachkat/scalable-credit-framework)** · *(PDF in repo: `scalable_credit_framework.pdf`)*  
+
+- Designed a **k-nearest neighbors (k-NN) classification model** for GE’s credit team to move beyond Excel-based scoring.  
+- Standardized variables (e.g., Age, Na/K ratio) and ran a **pilot plan** to confirm predictive signal.  
+- Outlined **scalability roadmap**: transition to cloud-based workflows, integration with BI dashboards, and governance for enterprise adoption.  
 
 ---
+
+#### Fraud Detection — PRIDIT & PCA Models  
+**[View Repo](https://github.com/rachkat/fraud-detection-pridit)** · *(Report in repo)*  
+
+- Applied **PCA** to insurance claim data to extract latent features and identify abnormal patterns.  
+- Used **PRIDIT scoring** to rank suspicious policies and flag potential fraud cases.  
+- Demonstrated the model’s ability to enhance **risk-based auditing** and reduce investigation costs through data-driven prioritization.  
+
+---
+
+#### Predictive Modeling for Customer Targeting  
+**[View Repo](https://github.com/rachkat/customer-targeting-models)** · *(Notebook + Visualizations in repo)*  
+
+- Built predictive models to optimize **customer acquisition and retention strategies**.  
+- Identified key demographic and behavioral features most correlated with campaign success.  
+- Produced **visual dashboards and reports** showing actionable segmentation, improving marketing ROI and decision-making.  
+
+---
+
 
 ## Certifications  
 
