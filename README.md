@@ -10,6 +10,7 @@
 
 #### [⬇️ Download CV as PDF](https://github.com/rachkat/rachkat/blob/main/resume-data-analyst-rachel-goldsbury.pdf)  
 
+[📄 NSLS Letter of Recommendation](https://github.com/rachkat/rachkat/raw/main/NSLS-letter-of-rec.pdf)
 
 <!-- PDF-EXCLUDE-END -->  
 
