@@ -17,12 +17,12 @@
 
 ## About Me   
 
-I’m a **data analyst** with a master’s in data analytics and a background in teaching.  
-I love digging into data, spotting patterns, and turning them into insights people can actually use.  
-At the core, my work is about translating complex information into **stories and solutions that drive impact**.   
+I’m a data analyst with a master’s in data analytics and a background in teaching.
+I enjoy exploring data, uncovering patterns, and transforming them into insights that people can act on.
+At the core, my work is about turning complex information into clear stories and practical solutions that drive impact.
 
-Outside of data, you’ll usually find me trying a new recipe, baking a new sweet treat, or outdoors; running or hiking, recharging through mindfulness.  
-Staying active and grounded fuels me with a calm, curious, and determined energy which I bring into professional work.  
+Outside of data, you’ll find me experimenting in the kitchen, running or hiking outdoors, and recharging through mindfulness.
+Staying active and grounded gives me the calm, curiosity, and determination I carry into my professional work. 
 
 ---
 
