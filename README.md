@@ -21,7 +21,7 @@ I love digging into data, spotting patterns, and turning them into insights peop
 At the core, my work is about translating complex information into **stories and solutions that drive impact**.   
 
 Outside of data, you’ll usually find me trying a new recipe, baking a new sweet treat, or outdoors; running or hiking, recharging through mindfulness.  
-Staying active and grounded fuels me with determined energy which I bring into professional work.  
+Staying active and grounded fuels me with a curious, determined energy which I bring into professional work.  
 
 ---
 
