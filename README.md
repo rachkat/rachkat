@@ -25,7 +25,7 @@ Staying active and grounded fuels my passion for balance, which I bring into pro
 
 ---
 
-## Skills  
+## Skills   
 
 - **Data Analysis & Exploration:** Statistical modeling, forecasting, hypothesis testing, and data cleaning with Python, R, and Excel  
 
@@ -39,45 +39,36 @@ Staying active and grounded fuels my passion for balance, which I bring into pro
 
 - **Business & Strategy:** Dashboard design, business intelligence reporting, data governance, compliance, problem-solving, and stakeholder communication  
 
----
+---  
 
-## Projects   
+## Projects  
 
-#### Credit Risk Capstone — Logistic Regression & CRISP-DM  
-**[View Repo](https://github.com/rachkat/credit-risk-capstone)** · *(Slides + Report in repo)*  
-
-- Built a **credit risk prediction model** using **logistic regression** on historical loan applicant data.  
-- Applied the **CRISP-DM framework** (business understanding → deployment), including data preparation, exploratory analysis, and ethical variable selection.  
-- Delivered a stakeholder-ready **presentation deck** and **narrated brief**, highlighting actionable insights for reducing default exposure.  
+#### Credit Risk Capstone — Logistic Regression  
+**[View Repo](https://github.com/rachkat/credit-risk-capstone)**  
+- Predicted loan defaults using **logistic regression** under the **CRISP-DM framework**.  
+- Delivered insights to reduce default exposure and support **credit risk strategy**.  
 
 ---
 
-#### Scalable Credit Risk Framework — k-NN Pilot & Model Deployment  
-**[View Repo](https://github.com/rachkat/scalable-credit-framework)** · *(PDF in repo: `scalable_credit_framework.pdf`)*  
-
-- Designed a **k-nearest neighbors (k-NN) classification model** for GE’s credit team to move beyond Excel-based scoring.  
-- Standardized variables (e.g., Age, Na/K ratio) and ran a **pilot plan** to confirm predictive signal.  
-- Outlined **scalability roadmap**: transition to cloud-based workflows, integration with BI dashboards, and governance for enterprise adoption.  
+#### Scalable Credit Risk Framework — k-NN Pilot  
+**[View Repo](https://github.com/rachkat/scalable-credit-framework)**  
+- Built a **k-NN classification model** to replace Excel-based scoring.  
+- Outlined a **scalable deployment roadmap** with BI dashboards and cloud workflows.  
 
 ---
 
-#### Fraud Detection — PRIDIT & PCA Models  
-**[View Repo](https://github.com/rachkat/fraud-detection-pridit)** · *(Report in repo)*  
-
-- Applied **PCA** to insurance claim data to extract latent features and identify abnormal patterns.  
-- Used **PRIDIT scoring** to rank suspicious policies and flag potential fraud cases.  
-- Demonstrated the model’s ability to enhance **risk-based auditing** and reduce investigation costs through data-driven prioritization.  
+#### Fraud Detection — PCA & PRIDIT Models  
+**[View Repo](https://github.com/rachkat/fraud-detection-pridit)**  
+- Applied **PCA + PRIDIT scoring** to flag high-risk insurance policies.  
+- Improved fraud detection efficiency and reduced auditing costs.  
 
 ---
 
-#### Predictive Modeling for Customer Targeting  
-**[View Repo](https://github.com/rachkat/customer-targeting-models)** · *(Notebook + Visualizations in repo)*  
+#### Customer Targeting — Predictive Modeling  
+**[View Repo](https://github.com/rachkat/customer-targeting-models)**  
+- Modeled **customer behavior** to optimize acquisition and retention.  
+- Produced actionable **segments and dashboards** to boost marketing ROI.  
 
-- Built predictive models to optimize **customer acquisition and retention strategies**.  
-- Identified key demographic and behavioral features most correlated with campaign success.  
-- Produced **visual dashboards and reports** showing actionable segmentation, improving marketing ROI and decision-making.  
-
----
 
 
 ## Certifications  
