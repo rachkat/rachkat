@@ -51,21 +51,21 @@ Staying active and grounded fuels me with a curious, determined energy which I b
 ---
 
 #### Scalable Credit Risk Framework — k-NN Pilot  
-**[View Repo](https://github.com/rachkat/scalable-credit-framework)**  
+**[View Repo](https://github.com/rachkat/building-a-scalable-credit-risk-framework)**  
 - Built a **k-NN classification model** to replace Excel-based scoring.  
 - Outlined a **scalable deployment roadmap** with BI dashboards and cloud workflows.  
 
 ---
 
 #### Fraud Detection — PCA & PRIDIT Models  
-**[View Repo](https://github.com/rachkat/fraud-detection-pridit)**  
+**[View Repo](https://github.com/rachkat/fraud-detection-pridit-pca-r/tree/main)**  
 - Applied **PCA + PRIDIT scoring** to flag high-risk insurance policies.  
 - Improved fraud detection efficiency and reduced auditing costs.  
 
 ---
 
 #### Customer Targeting — Predictive Modeling  
-**[View Repo](https://github.com/rachkat/customer-targeting-models)**  
+**[View Repo](https://github.com/rachkat/predictive-modeling-customer-targeting)**  
 - Modeled **customer behavior** to optimize acquisition and retention.  
 - Produced actionable **segments and dashboards** to boost marketing ROI.  
 
