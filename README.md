@@ -98,7 +98,7 @@ Staying active and grounded gives me the calm, curiosity, and determination I ca
 
 ## Education  
 
-**M.S. Data Analytics** — Southern New Hampshire University (2026)  
+**M.S. Data Analytics** — Southern New Hampshire University (2025)  
 - GPA: 3.93 | Summa Cum Laude (Highest Honors)
 - National Society of Leadership and Success Member  
 
