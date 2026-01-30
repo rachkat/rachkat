@@ -107,7 +107,7 @@ Staying active and grounded gives me the calm, curiosity, and determination I ca
 
 ---
 
-👉 Looking to connect with teams that value clear communication and strong data-driven insights.  
+👉 Looking to connect with individuals and teams that value clear communication and strong data driven insights.  
 
 ✨ Thank you for stopping by my profile today — I wish you a beautiful day!  
 
